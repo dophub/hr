@@ -4,7 +4,7 @@ Bu repo ile DOP' ta gerçekleştirdiğimiz işe alım süreçlerini detaylandır
 DOP tarafında gelecekte bizimle çalışacak ekip arkadaşları için şeffaf ve hızlı bir süreç tasarladık.
 İşe alım sürecinin her aşamasında size destek olan teknik ve operasyonel bir ekip üyemiz olacaktır.
 
-![DOP HR](/Images/DOP_HR.png)
+![dop](/images/DOP_HR.png)
 
 ## 1- Pozisyon Açılış
 DOP içindeki ürün ekipleri ya da takımlar için planlanan proje geliştirmeleri kapsamında yeni bir 
